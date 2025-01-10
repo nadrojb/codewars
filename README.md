@@ -1,4 +1,4 @@
-#Codeware / Katas
+Codewars / Katas
 
 Please note Codewars Rules:
 
